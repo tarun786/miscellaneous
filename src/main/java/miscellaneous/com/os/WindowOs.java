@@ -6,5 +6,5 @@ public class WindowOs implements OS {
 	System.out.println("This is not more exist this mordern world");
 		
 	}
-
+     
 }
